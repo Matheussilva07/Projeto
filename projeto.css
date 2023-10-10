@@ -11,7 +11,7 @@ body* {
 
 :root {
   --text-color: white;
-  --bg-url: url(./projetos/bg-desktop.jpg);
+  --bg-url: url(./bg-desktop.jpg);
   --switch-bg-url: url(./projetos/moon.stars.svg);
   --but: rgba(30, 17, 17, 0.342);
   --butborda: 1px solid rgba(172, 165, 165, 0.447);
@@ -22,7 +22,7 @@ body* {
 }
 .light {
   --text-color: black;
-  --bg-url: url(./projetos/bg-desktop-light.jpg);
+  --bg-url: url(./bg-desktop-light.jpg);
   --switch-bg-url: url(./projetos/sun.svg);
   --but: rgba(25, 17, 17, 0.228);
   --butborda: 1px solid rgba(0, 0, 0, 0.198);
